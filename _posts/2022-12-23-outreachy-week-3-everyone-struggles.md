@@ -28,3 +28,5 @@ When you have issues or doubts, Do you best to ask for clarity from your mentors
 ![ODK-X]({{site.baseurl}}/assets/img/odk.png)
 
 The picture says it all. The new vocabulary I learnt is the Orgs name itself... hehehe😂😂. Yeah seriously I had no idea what ODK-X stands for until I read their [Docs](https://docs.odk-x.org). Trust me, there's nothing like ~~" I know it all "~~ in tech. You'll keep learning new terms every now and then.
+
+Thanks for reading.. See you in the next post!
