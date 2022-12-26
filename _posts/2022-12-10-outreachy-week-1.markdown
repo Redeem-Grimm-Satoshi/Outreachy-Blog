@@ -14,7 +14,7 @@ I dropped out of school ( University ) to pursue my tech career, goals and dream
 opensource projects, personal projects and taking certification exams, etc..  to improve on myself. It hasn't been an easy journey as I have had a lot of persecutions. I'll write a blog post about this soon.
 
 I did apply to Outreachy this year ( my number 4 attempts ) as I've been rejected 3 times in a row. I didn't give up, I became more
-tenacious than ever before, And this years Outreachy  Dec to March internship round I got selected... Hurrayyyyy!!
+tenacious than ever before, And this years Outreachy 2022 Dec to March internship round I got selected... Hurrayyyyy!! 🎉🎉🎉🎉🎉
 
 I'm Interning at [ODK-X](https://odk-x.org/) and currently working on the project `"Custom UI components for ODK-X mobile apps"`
 
@@ -77,7 +77,7 @@ A year back, A friend recommended Outreachy to me, that's how I got to know abou
 - [x]  It's remote
 - [x]  It has one of my values ( Freedom )
 
-And to add, The project I'm working on has my stack which is Java, UI/UX. 🤗
+And to add, The project I'm working on has my stack which is Java, UI/UX. I'm looking forward to learn a lot from this Internship! 🤗
 
 
 
